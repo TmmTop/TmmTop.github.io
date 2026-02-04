@@ -1,1 +1,1 @@
-import{_ as e}from"./_plugin-vue_export-helper-BCo6x5W8.js";import{e as n,f as r,h as s}from"./index-80d0f50K.js";const t={class:"page-content"};const o=e({},[["render",function(e,o){return r(),n("div",t,[...o[0]||(o[0]=[s("h1",null,"菜单-3-1",-1)])])}]]);export{o as default};
+import{_ as e}from"./plugin-vue_export-helper-BCo6x5W8.js";import{e as n,f as r,h as s}from"./index-80d0f50K.js";const t={class:"page-content"};const o=e({},[["render",function(e,o){return r(),n("div",t,[...o[0]||(o[0]=[s("h1",null,"菜单-3-1",-1)])])}]]);export{o as default};
